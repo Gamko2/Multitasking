@@ -1,0 +1,22 @@
+{
+  "name": "multitasking-1",
+  "version": "1.0.0",
+  "description": "daily problem to solve the multitasking problem",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Gamko2/Multitasking.git"
+  },
+  "author": "Marc",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Gamko2/Multitasking/issues"
+  },
+  "homepage": "https://github.com/Gamko2/Multitasking#readme",
+  "dependencies": {
+    "typescript": "^4.1.2"
+  }
+}
