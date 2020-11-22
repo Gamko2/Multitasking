@@ -12,3 +12,5 @@ def findTime(arr, cooldown):
 
 print findTime([1, 1, 2, 1], 2)
 # 7
+
+Test123
